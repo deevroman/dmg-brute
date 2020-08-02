@@ -1,5 +1,5 @@
 # dmg-brute
-script for prime brute .dmg 
+script for simple brute .dmg 
 
 `./brute.sh file.dmg`
 
